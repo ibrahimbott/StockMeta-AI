@@ -1,0 +1,5 @@
+{
+  "name": "StockMeta AI",
+  "description": "High-performance bulk image analyzer for Adobe Stock contributors. Generates full titles and exactly 47 SEO tags per image using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
